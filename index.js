@@ -21,7 +21,7 @@ perimeter * timeRemaining / duration - perimeter);
 
     },
     onComplete(){
-console.log('timer has completed!!!');
+console.log('timer has completed!!!') ;
     }
 });
 
